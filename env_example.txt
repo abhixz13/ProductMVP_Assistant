@@ -1,0 +1,16 @@
+# OpenAI API Key (Required)
+OPENAI_API_KEY=your_openai_api_key_here
+
+# SendGrid API Key (Optional - for email notifications)
+SENDGRID_API_KEY=your_sendgrid_api_key_here
+
+# SerpAPI Key (Optional - for enhanced web search)
+SERPAPI_API_KEY=your_serpapi_key_here
+
+# Email Configuration (Optional)
+FROM_EMAIL=your_email@example.com
+TO_EMAIL=recipient@example.com
+
+# Optional: Custom model settings
+# OPENAI_MODEL=gpt-4o
+# OPENAI_TEMPERATURE=0.7
