@@ -2,6 +2,10 @@
 
 A Streamlit application featuring an AI-powered Product Manager that helps with market research and feature development.
 
+## 🌐 Live Demo
+
+**Try the app online**: [https://alexpmassistant.streamlit.app/](https://alexpmassistant.streamlit.app/)
+
 ## Features
 
 - 🔍 **Market Research**: Conduct comprehensive market research and analysis
